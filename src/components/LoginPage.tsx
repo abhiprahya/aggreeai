@@ -88,7 +88,7 @@ export const LoginPage: React.FC<LoginPageProps> = ({ onLogin }) => {
           </div>
           
           <h2 className="text-4xl font-bold text-gray-900 mb-4">
-            Modernize Your <span className="text-green-600">Agri-Value Chain</span>
+            Modernize your <span className="text-green-600">Agri-Value Chain</span>
           </h2>
           
           <p className="text-lg text-gray-600 mb-8">
